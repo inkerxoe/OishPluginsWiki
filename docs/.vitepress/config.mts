@@ -2,6 +2,7 @@ import { defineConfig } from 'vitepress'
 
 // https://vitepress.dev/reference/site-config
 export default defineConfig({
+  base: '/OishPluginsWiki',
   title: "OishPlugins 思墨系列插件",
   description: "欢迎查阅 OishPlugins 公开文档",
   themeConfig: {
