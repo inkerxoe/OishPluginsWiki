@@ -4,22 +4,17 @@ layout: home
 
 hero:
   name: "OishPlugins 思墨系列插件"
-  text: "欢迎查阅 OishPlugins 公开文档"
-  tagline: My great project tagline
+  tagline: 欢迎查阅 OishPlugins 公开文档
   actions:
     - theme: brand
-      text: Markdown Examples
-      link: /markdown-examples
+      text: 插件文档
+      link: /OishEternity
     - theme: alt
-      text: API Examples
-      link: /api-examples
+      text: Github
+      link: https://github.com/inkerxoe
 
 features:
-  - title: Feature A
-    details: Lorem ipsum dolor sit amet, consectetur adipiscing elit
-  - title: Feature B
-    details: Lorem ipsum dolor sit amet, consectetur adipiscing elit
-  - title: Feature C
-    details: Lorem ipsum dolor sit amet, consectetur adipiscing elit
+  - title: OishEternity
+    details: 思墨死亡惩罚插件-灵活强大的客制化死亡惩罚插件
 ---
 
