@@ -1,2 +1,2 @@
 # OishPluginsWiki
- OishPlugins-Wiki
+ OishPlugins 思墨系列插件
